@@ -16,3 +16,7 @@ python -m src.main --source 0
 - `+` increase HUD opacity
 - `-` decrease HUD opacity
 - `s` save settings
+
+
+## Note
+If you need GUI functions (imshow/window), install opencv-python locally instead of opencv-python-headless.
